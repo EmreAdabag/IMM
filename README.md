@@ -1,5 +1,7 @@
 # Robot IMM
 
+![UR5](IMM-ur5.gif)
+
 ## Usage
 
 1. Download the models from https://drive.google.com/drive/folders/1hHLXgK7DoAKB3kMVzkN6QjvrMnLc1GAA?usp=sharing
