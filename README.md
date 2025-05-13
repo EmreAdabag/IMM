@@ -1,4 +1,4 @@
-# Robot IMM
+# IMM Policy
 
 ![UR5](IMM-ur5.gif)
 
@@ -13,3 +13,7 @@ pip install -r Requirements.txt
 ```
 
 4. Run benchmarks in benchmark.ipynb
+
+## Related
+- [Inductive Moment Matching](https://lumalabs.ai/blog/engineering/inductive-moment-matching)
+- [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)
