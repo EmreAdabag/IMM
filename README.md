@@ -7,7 +7,7 @@
 1. Download the models from https://drive.google.com/drive/folders/1hHLXgK7DoAKB3kMVzkN6QjvrMnLc1GAA?usp=sharing
 2. put .pth files in /ckpts
 
-3. Install the dependencies using the following command:
+3. Install dependencies using the following command:
 ```bash
 pip install -r Requirements.txt
 ```
